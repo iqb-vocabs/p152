@@ -11,7 +11,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 # IQB Französisch Sek I - Aufgabe
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p152/master/unit.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p152/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p152/master/unit.json)
 
 ## Stimulus
 
@@ -24,7 +24,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p152/master/unit.js
 | Textsorte | [Vokabular](https://w3id.org/iqb/v25/te/) | url: 'https://w3id.org/iqb/v25/te/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e6 |
 | Andere Textsorte | Text | Einzeilig, Sprache(n): de   | iqb_other_text_type |
 | Thema | [Vokabular](https://w3id.org/iqb/v25/th/) | url: 'https://w3id.org/iqb/v25/th/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | e7 |
-| Anderes Thema otro | Text | Einzeilig, Sprache(n): de   | iqb_other_topic |
+| Anderes Thema | Text | Einzeilig, Sprache(n): de   | iqb_other_topic |
 | Länge des verwendeten Audioauszugs | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Wortanzahl | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein | iqb_word_count |
 | Aufgabenzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
@@ -57,7 +57,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p152/master/unit.js
 
 # IQB Französisch Sek I - Item
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p152/master/item.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p152/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p152/master/item.json)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
