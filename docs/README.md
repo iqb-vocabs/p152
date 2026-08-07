@@ -1,6 +1,6 @@
 # Metadatenprofile für Testaufgaben: Französisch Sek I
 
-ID of profile-store: `frs1`
+ID of profile-store: `[frs1](frs1)`
 
 Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Französisch Sek I - Aufgabe"
 
-ID of profile: `https://w3id.org/iqb/p152/unit/`
+ID of profile: [https://w3id.org/iqb/p152/unit/](https://w3id.org/iqb/p152/unit/)
 
 ### Stimulus
 
@@ -48,7 +48,7 @@ ID of profile: `https://w3id.org/iqb/p152/unit/`
 
 ## Profil "IQB Französisch Sek I - Item"
 
-ID of profile: `https://w3id.org/iqb/p152/item/`
+ID of profile: [https://w3id.org/iqb/p152/item/](https://w3id.org/iqb/p152/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
